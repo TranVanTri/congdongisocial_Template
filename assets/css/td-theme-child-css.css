@@ -1,0 +1,14 @@
+
+.td_block_template_1 .td-related-title .td-cur-simple-item {
+    background-color: #222222;
+    color: #fff;
+}
+.td_block_template_1 .td-related-title {
+    border-bottom: 2px solid #222222;
+}
+a:hover {
+	text-decoration: none;
+}
+.td-footer-wrapper a:hover{
+	text-decoration: none;
+}
